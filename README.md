@@ -1,1 +1,1 @@
-<h1>GESTOS 2024</h1>
+<h1>GASTOS 2024</h1>
